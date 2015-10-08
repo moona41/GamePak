@@ -1,0 +1,2 @@
+c:\users\moon\documents\visual studio 2015\Projects\GamePak\GamePak\bin\Debug\GamePak.exe.config
+C:\Users\Moon\Documents\GitHub\GamePak\GamePak\GamePak\bin\Debug\GamePak.exe.config
